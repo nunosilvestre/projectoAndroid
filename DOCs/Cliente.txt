@@ -1,0 +1,21 @@
+-----CLIENTE PARTICULAR
+tipoEntidade(P, E, F)
+
+nome
+morada
+cidade
+CP
+telefone
+telemovel
+email
+outros
+dataCriacao
+ultimoContacto(autom)
+nomecontacto
+telefonecontacto
+telemovelcontacto
+emailcontacto
+
+
+
+
